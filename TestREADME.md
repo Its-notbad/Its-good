@@ -21,3 +21,6 @@ $ git pull origin main --allow-unrelated-histories
 
 # vs code에서 commit한 파일 repository에 push
 $ git push -u origin main
+
+# 다시 테스트 해보자
+테스트가 안된다?
