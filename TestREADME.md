@@ -28,3 +28,4 @@ $ git push -u origin main
 push 하면 올라간다고 하자.
 
 다시 변경을 해보자
+@ 어렵구나
