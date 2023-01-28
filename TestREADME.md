@@ -21,3 +21,12 @@ $ git pull origin main --allow-unrelated-histories
 
 # vs code에서 commit한 파일 repository에 push
 $ git push -u origin main
+
+# 다시 테스트 해보자
+테스트가 안된다?
+제대로 가져오나 보자.
+push 하면 올라간다고 하자.
+
+다시 변경을 해보자
+3213123123
+1234
