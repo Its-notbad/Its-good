@@ -54,3 +54,4 @@ git checkout master
 
 제대로 되었는지 확인 해보자.
 다시 테스트
+#git push test
