@@ -51,3 +51,5 @@ n번째 커밋상태를 유지하려면 master branch를 n번째 커밋을
 git branch -f master HEAD
 head가 master branch를 참조하게끔 branch로 checkout
 git checkout master
+
+제대로 되었는지 확인 해보자.
